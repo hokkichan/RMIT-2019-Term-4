@@ -119,7 +119,7 @@ li.dropdown {
   min-height: 100%;
   padding-left: 15px;
   padding-top: 45px;
-  padding-bottom: 25px;
+  padding-bottom: 85px;
   overflow: auto;
 }
 
@@ -131,7 +131,7 @@ div.gallery {
   border: 1px solid #ccc;
   float: left;
   width: 30%;
-  height:320px;
+  height:350px;
   text-align: center;
   overflow: auto;
 }
@@ -142,7 +142,7 @@ div.gallery2 {
   border: 1px solid #ccc;
   float: left;
   width: 30%;
-  height:320px;
+  height:350px;
   text-align: center;
   overflow: auto;
 }
